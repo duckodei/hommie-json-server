@@ -1,0 +1,22 @@
+
+
+{
+  "product": [
+    {
+            "id": 3,
+            "name": "Adidas Breaknet 2022",
+            "description": "Cool, fast, feasiable.!",
+            "quantity": 41,
+            "price": 77.0,
+            "categoryId": null
+        },
+        {
+            "id": 5,
+            "name": "Nike 2024",
+            "description": "More thalitiy.!",
+            "quantity": 20,
+            "price": 27.0,
+            "categoryId": null
+     }
+  ]
+}
